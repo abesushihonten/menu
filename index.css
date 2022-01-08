@@ -12,7 +12,7 @@ header{
 	width: 100%;
 	height: 100px;
 	display: flex;
-	background-image: url("img0.JPG");
+	background-image: url("img0.jpg");
 	background-size: cover;
 	box-shadow: 4px 4px 10px rgba(0,0,0,.2);
 	padding-top: 10px;
@@ -33,7 +33,7 @@ header li{
 .sushi-container{
 	width: 100%;
 	padding-top: 100px;
-	background-image: url("img0.JPG");
+	background-image: url("img0.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 }
